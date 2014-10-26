@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros">
+    <RunDir>..\Runs\</RunDir>
+    <MSN_MainDir>"C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code"</MSN_MainDir>
+    <TestTargDir>..\..\SourceCode</TestTargDir>
+    <markDir>C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\marc</markDir>
+    <sharedDir>C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared</sharedDir>
+    <codeDir>C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code</codeDir>
+    <Cygwin65LibGccInclude>C:\cygwin64\lib\gcc\i686-w64-mingw32\4.8.3\include\c++</Cygwin65LibGccInclude>
+    <CommandParmsMarc211w>"$(markDir)\marc211w.cpp" "$(markDir)"  "$(sharedDir)"  "$(Cygwin65LibGccInclude)"  "$(codeDir)"</CommandParmsMarc211w>
+    <CommandParmsTest>"..\..\SourceCode\FindAllIncludes.cpp" "$(TestTargDir) \" " " $(VC_IncludePath)  " "  $(WindowsSDK_IncludePath)   "</CommandParmsTest>
+    <msvsSuppliedIncludePaths>$(VC_IncludePath);$(WindowsSDK_IncludePath);</msvsSuppliedIncludePaths>
+    <msvcDefaultIncludePaths>M:\include; M:\atlmfc\include; W:\um; W:\shared; W:\winrt</msvcDefaultIncludePaths>
+  </PropertyGroup>
+  <PropertyGroup>
+    <IncludePath>$(msvcDefaultIncludePaths);$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <ItemDefinitionGroup />
+  <ItemGroup>
+    <BuildMacro Include="RunDir">
+      <Value>$(RunDir)</Value>
+    </BuildMacro>
+    <BuildMacro Include="MSN_MainDir">
+      <Value>$(MSN_MainDir)</Value>
+    </BuildMacro>
+    <BuildMacro Include="TestTargDir">
+      <Value>$(TestTargDir)</Value>
+    </BuildMacro>
+    <BuildMacro Include="markDir">
+      <Value>$(markDir)</Value>
+    </BuildMacro>
+    <BuildMacro Include="sharedDir">
+      <Value>$(sharedDir)</Value>
+    </BuildMacro>
+    <BuildMacro Include="codeDir">
+      <Value>$(codeDir)</Value>
+    </BuildMacro>
+    <BuildMacro Include="Cygwin65LibGccInclude">
+      <Value>$(Cygwin65LibGccInclude)</Value>
+    </BuildMacro>
+    <BuildMacro Include="CommandParmsMarc211w">
+      <Value>$(CommandParmsMarc211w)</Value>
+    </BuildMacro>
+    <BuildMacro Include="CommandParmsTest">
+      <Value>$(CommandParmsTest)</Value>
+    </BuildMacro>
+    <BuildMacro Include="msvsSuppliedIncludePaths">
+      <Value>$(msvsSuppliedIncludePaths)</Value>
+    </BuildMacro>
+    <BuildMacro Include="msvcDefaultIncludePaths">
+      <Value>$(msvcDefaultIncludePaths)</Value>
+    </BuildMacro>
+  </ItemGroup>
+</Project>

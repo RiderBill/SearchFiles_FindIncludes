@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros">
+    <RunDir>..\Runs\</RunDir>
+    <MSN_MainDir>"C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\\"</MSN_MainDir>
+    <TestTargDir>..\..\..\Projects\</TestTargDir>
+    <markDir>"C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\marc\\"</markDir>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemDefinitionGroup />
+  <ItemGroup>
+    <BuildMacro Include="RunDir">
+      <Value>$(RunDir)</Value>
+    </BuildMacro>
+    <BuildMacro Include="MSN_MainDir">
+      <Value>$(MSN_MainDir)</Value>
+    </BuildMacro>
+    <BuildMacro Include="TestTargDir">
+      <Value>$(TestTargDir)</Value>
+    </BuildMacro>
+    <BuildMacro Include="markDir">
+      <Value>$(markDir)</Value>
+    </BuildMacro>
+  </ItemGroup>
+</Project>
