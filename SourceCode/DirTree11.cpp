@@ -3,9 +3,9 @@
 #include <iostream>     // std::cout
 #include <fstream>      // std::ifstream, ofstream
 #include <string>
-#include <cstring>      // strerror()
+#include <cstring>  // strerror()
 #include <vector>
-#include <algorithm>    // transsform() , e.g. toupper
+#include <algorithm>  // transsform() , e.g. toupper
 #include "sortedVector10.hpp"
 #include "ConditionalIncludes.hpp"
 #include "DirTree11.hpp"
