@@ -1,0 +1,35 @@
+Files found in C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\marc:
+FileName, Subdirectory, File Pathname
+
+Files found in C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\marc:
+FileName, Subdirectory, File Pathname
+
+Files found in C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared:
+FileName, Subdirectory, File Pathname
+ArchTypeCvt.hpp,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\sglmsn\msnarch\,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\sglmsn\msnarch\ArchTypeCvt.hpp
+ArchUtils.hpp,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\sglmsn\msnarch\,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\sglmsn\msnarch\ArchUtils.hpp
+ArchiveWriterStatusChunk.hpp,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\sglmsn\uitree\,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\sglmsn\uitree\ArchiveWriterStatusChunk.hpp
+Base211.hpp,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\sglmsn\icd211\,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\sglmsn\icd211\Base211.hpp
+FileSpec.hpp,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\gpstk\,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\gpstk\FileSpec.hpp
+FormMSN.hpp,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\sglmsn\uitree\,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\sglmsn\uitree\FormMSN.hpp
+H5GNSSRawObsType.h,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\hdf-gnss\,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\hdf-gnss\H5GNSSRawObsType.h
+H5GNSSfuncs.h,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\hdf-gnss\,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\hdf-gnss\H5GNSSfuncs.h
+HGConfigMgmt.hpp,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\hgnsspp\,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\hgnsspp\HGConfigMgmt.hpp
+HGWriteTemplate.hpp,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\hgnsspp\,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\hgnsspp\HGWriteTemplate.hpp
+MessagingFramework.hpp,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\sglmsn\mqmsn\,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\sglmsn\mqmsn\MessagingFramework.hpp
+Padme.hpp,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\pds\padme\,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\pds\padme\Padme.hpp
+Rx211.hpp,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\sglmsn\icd211\,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\sglmsn\icd211\Rx211.hpp
+Undertaker.hpp,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\sglmsn\appframe\,C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared\sglmsn\appframe\Undertaker.hpp
+
+Files found in C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code:
+FileName, Subdirectory, File Pathname
+
+Files found in C:\cygwin64\lib\gcc\i686-w64-mingw32\4.8.3\include\c++:
+FileName, Subdirectory, File Pathname
+vector,C:\cygwin64\lib\gcc\i686-w64-mingw32\4.8.3\include\c++\,C:\cygwin64\lib\gcc\i686-w64-mingw32\4.8.3\include\c++\vector
+vector,C:\cygwin64\lib\gcc\i686-w64-mingw32\4.8.3\include\c++\debug\,C:\cygwin64\lib\gcc\i686-w64-mingw32\4.8.3\include\c++\debug\vector
+vector,C:\cygwin64\lib\gcc\i686-w64-mingw32\4.8.3\include\c++\profile\,C:\cygwin64\lib\gcc\i686-w64-mingw32\4.8.3\include\c++\profile\vector
+
+Files not found in C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\marc; C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\marc; C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\shared; C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code; nor C:\cygwin64\lib\gcc\i686-w64-mingw32\4.8.3\include\c++: 
+FileName, Not Found
+, hdf5.h, , Not Found

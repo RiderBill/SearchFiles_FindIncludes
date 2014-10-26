@@ -1,0 +1,73 @@
+Parent Dir, File Name, String, Line containing string
+..\..\..\Projects\DirListing\DirListing\, DirListing.cpp, Windows.h, #include <Windows.h>
+..\..\..\Projects\DirListing\DirListing\, DirListing.cpp, stdafx.h, #include "stdafx.h"
+..\..\..\Projects\DirListing\DirListing\, DirListing.cpp, stdio.h, #include <stdio.h>
+..\..\..\Projects\DirListing\DirListing\, stdafx.cpp, stdafx.h, #include "stdafx.h"
+..\..\..\Projects\DirListing\DirListing\, stdafxANSI.cpp, stdafx.h, #include "stdafx.h"
+..\..\..\Projects\DirListing\DirListing\, stdafxUTF-8.cpp, stdafx.h, #include "stdafx.h"
+..\..\..\Projects\SearchFiles1\SourceCode\, Example.cpp, stdlib.h, #include <stdlib.h>
+..\..\..\Projects\SearchFiles1\SourceCode\, Example.cpp, stdio.h, #include <stdio.h>
+..\..\..\Projects\SearchFiles1\SourceCode\, Example.cpp, sys/types.h, #include <sys/types.h>
+..\..\..\Projects\SearchFiles1\SourceCode\, Example.cpp, string.h, #include <string.h>
+..\..\..\Projects\SearchFiles1\SourceCode\, Example.cpp, cstring, #include <cstring>  // strerror()
+..\..\..\Projects\SearchFiles1\SourceCode\, Example.cpp, errno.h, #include <errno.h>
+..\..\..\Projects\SearchFiles1\SourceCode\, Example.cpp, C:\\Users\\brinson\\Documents\\Lang\\fcn_s_MACROS.h, #include <C:\\Users\\brinson\\Documents\\Lang\\fcn_s_MACROS.h>
+..\..\..\Projects\SearchFiles1\SourceCode\, Main.cpp, iostream, #include <iostream>     // std::cout
+..\..\..\Projects\SearchFiles1\SourceCode\, Main.cpp, fstream, #include <fstream>      // std::ifstream
+..\..\..\Projects\SearchFiles1\SourceCode\, Main.cpp, string, #include <string>
+..\..\..\Projects\SearchFiles1\SourceCode\, parseTokens.cpp, string, #include <string>
+..\..\..\Projects\SearchFiles1\SourceCode\, parseTokens.cpp, vector, #include <vector>
+..\..\..\Projects\SearchFiles1\SourceCode\, parseTokens.hpp, string, #include <string>
+..\..\..\Projects\SearchFiles1\SourceCode\, parseTokens.hpp, vector, #include <vector>
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs3.cpp, stdio.h, #include <stdio.h>
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs3.cpp, iostream, #include <iostream>     // std::cout
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs3.cpp, fstream, #include <fstream>      // std::ifstream, ofstream
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs3.cpp, string, #include <string>
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs3.cpp, cstring, #include <cstring>  // strerror()
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs3.cpp, vector, #include <vector>
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs3.cpp, limits.h, #include <limits.h>     // defines PATH_MAX
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs3.cpp, C:\\Users\\brinson\\Documents\\Lang\\fcn_s_MACROS.h, #include <C:\\Users\\brinson\\Documents\\Lang\\fcn_s_MACROS.h>
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs4.cpp, stdlib.h, #include <stdlib.h>
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs4.cpp, stdio.h, #include <stdio.h>
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs4.cpp, iostream, #include <iostream>     // std::cout
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs4.cpp, fstream, #include <fstream>      // std::ifstream, ofstream
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs4.cpp, string, #include <string>
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs4.cpp, cstring, #include <cstring>  // strerror()
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs4.cpp, vector, #include <vector>
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs4.cpp, limits.h, #include <limits.h>     // defines PATH_MAX
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs4.cpp, new, #include <new>
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs4.cpp, C:\\Users\\brinson\\Documents\\Lang\\fcn_s_MACROS.h, #include <C:\\Users\\brinson\\Documents\\Lang\\fcn_s_MACROS.h>
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs5.cpp, stdlib.h, #include <stdlib.h>
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs5.cpp, stdio.h, #include <stdio.h>
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs5.cpp, iostream, #include <iostream>     // std::cout
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs5.cpp, fstream, #include <fstream>      // std::ifstream, ofstream
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs5.cpp, string, #include <string>
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs5.cpp, cstring, #include <cstring>  // strerror()
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs5.cpp, vector, #include <vector>
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs5.cpp, new, #include <new>
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs5.cpp, SearchDirs5.hpp, #include "SearchDirs5.hpp"
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs5.cpp, SearchForStringFcns.hpp, #include "SearchForStringFcns.hpp"
+..\..\..\Projects\SearchFiles1\SourceCode\, SeachDirs5.cpp, parseTokens.hpp, #include "parseTokens.hpp"
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchDirs5.hpp, string, #include <string>
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchDirs5.hpp, vector, #include <vector>
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchForStringFcns.cpp, stdlib.h, #include <stdlib.h>
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchForStringFcns.cpp, stdio.h, #include <stdio.h>
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchForStringFcns.cpp, iostream, #include <iostream>     // std::cout
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchForStringFcns.cpp, fstream, #include <fstream>      // std::ifstream, ofstream
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchForStringFcns.cpp, string, #include <string>
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchForStringFcns.cpp, cstring, #include <cstring>      // strerror()
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchForStringFcns.cpp, vector, #include <vector>
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchForStringFcns.cpp, limits, #include <limits>
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchForStringFcns.cpp, SearchForStringFcns.hpp, #include "SearchForStringFcns.hpp"
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchForStringFcns.cpp, parseTokens.hpp, #include "parseTokens.hpp"
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchForStringFcns.hpp, stdlib.h, #include <stdlib.h>
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchForStringFcns.hpp, stdio.h,  #include <stdio.h>
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchForStringFcns.hpp, iostream,   #include <iostream>     // std::cout
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchForStringFcns.hpp, fstream,    #include <fstream>      // std::ifstream, ofstream
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchForStringFcns.hpp, string,     #include <string>
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchForStringFcns.hpp, cstring,      #include <cstring>      // strerror()
+..\..\..\Projects\SearchFiles1\SourceCode\, SearchForStringFcns.hpp, vector,       #include <vector>
+..\..\..\Projects\SearchFiles1\SourceCode\, TestSearchMain.cpp, fstream, #include <fstream>      // std::ifstream, ofstream
+..\..\..\Projects\SearchFiles1\SourceCode\, TestSearchMain.cpp, string, #include <string>
+..\..\..\Projects\SearchFiles1\SourceCode\, TestSearchMain.cpp, cstring, #include <cstring>      // strerror()
+..\..\..\Projects\SearchFiles1\SourceCode\, TestSearchMain.cpp, vector, #include <vector>
