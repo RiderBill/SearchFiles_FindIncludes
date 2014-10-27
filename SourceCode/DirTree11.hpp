@@ -11,7 +11,7 @@
    #include <vector>
    #include <set>
    #include <map>
-   #include <cstring>  // strerror()
+   #include <cstring>      // strerror()
    #include "sortedVector10.hpp"
    #include "ConditionalIncludes.hpp"
    
