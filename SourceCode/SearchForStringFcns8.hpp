@@ -1,8 +1,9 @@
-#include <stdlib.h>
- #include <stdio.h>
-  #include <TCHAR.h>
-   #include <iostream>     // std::cout
-    #include <fstream>      // std::ifstream, ofstream
+// I could have done this with grep, but I was working in a Windows platform at the time.
+#include <stdlib.h> 
+ #include <stdio.h>    // There must have been a good reason why I indented the
+  #include <TCHAR.h>   // include statements. I may have been using the project
+    #include <fstream> // directory to test the code, e.g., test for leading space before "#include"
+   #include <iostream> // std::cout std::ifstream, ofstream
      #include <string>
       #include <cstring>      // strerror()
        #include <vector>

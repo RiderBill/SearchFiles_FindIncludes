@@ -25,6 +25,9 @@
     <ClCompile Include="..\SourceCode\SearchForStringFcns8.cpp" />
     <ClCompile Include="..\SourceCode\sortedVector10.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\ReadMe_SearcheFiles1.txt" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{CFB0A378-5762-4FA9-95F1-0D91394944D4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
@@ -68,7 +71,7 @@
       </PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
-      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>USERDATABILL;WIN32;_DEBUG;_CONSOLE;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <SDLCheck>true</SDLCheck>
     </ClCompile>
     <Link>

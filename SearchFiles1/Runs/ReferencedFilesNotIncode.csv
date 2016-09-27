@@ -1,201 +1,36 @@
 Files found in B:\captain\msn\main\AllHeaders\opt\:
 FileName, Subdirectory, File Pathname
-DayTime.hpp,B:\captain\msn\main\AllHeaders\opt\gpstk\include\gpstk\include\gpstk\,B:\captain\msn\main\AllHeaders\opt\gpstk\include\gpstk\include\gpstk\DayTime.hpp
-H5LTpublic.h,B:\captain\msn\main\AllHeaders\opt\hdf5\include\,B:\captain\msn\main\AllHeaders\opt\hdf5\include\H5LTpublic.h
-H5PTpublic.h,B:\captain\msn\main\AllHeaders\opt\hdf5\include\,B:\captain\msn\main\AllHeaders\opt\hdf5\include\H5PTpublic.h
-RungeKutta4.hpp,B:\captain\msn\main\AllHeaders\opt\gpstk\include\gpstk\include\gpstk\,B:\captain\msn\main\AllHeaders\opt\gpstk\include\gpstk\include\gpstk\RungeKutta4.hpp
-algorithm,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\algorithm
-algorithm,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\ext\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\ext\algorithm
-bitset,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\bitset
-bitset,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\debug\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\debug\bitset
-cctype,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\cctype
-cerrno,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\cerrno
-cmath,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\cmath
-cmqbc.h,B:\captain\msn\main\AllHeaders\opt\mqm\inc\,B:\captain\msn\main\AllHeaders\opt\mqm\inc\cmqbc.h
-cmqbc.h,B:\captain\msn\main\AllHeaders\opt\temp\mqm\inc\,B:\captain\msn\main\AllHeaders\opt\temp\mqm\inc\cmqbc.h
-cmqc.h,B:\captain\msn\main\AllHeaders\opt\mqm\inc\,B:\captain\msn\main\AllHeaders\opt\mqm\inc\cmqc.h
-cmqc.h,B:\captain\msn\main\AllHeaders\opt\temp\mqm\inc\,B:\captain\msn\main\AllHeaders\opt\temp\mqm\inc\cmqc.h
-cmqcfc.h,B:\captain\msn\main\AllHeaders\opt\mqm\inc\,B:\captain\msn\main\AllHeaders\opt\mqm\inc\cmqcfc.h
-cmqcfc.h,B:\captain\msn\main\AllHeaders\opt\temp\mqm\inc\,B:\captain\msn\main\AllHeaders\opt\temp\mqm\inc\cmqcfc.h
-cmqxc.h,B:\captain\msn\main\AllHeaders\opt\mqm\inc\,B:\captain\msn\main\AllHeaders\opt\mqm\inc\cmqxc.h
-cmqxc.h,B:\captain\msn\main\AllHeaders\opt\temp\mqm\inc\,B:\captain\msn\main\AllHeaders\opt\temp\mqm\inc\cmqxc.h
-config.h,B:\captain\msn\main\AllHeaders\opt\local\include\wx-2.8\wx\,B:\captain\msn\main\AllHeaders\opt\local\include\wx-2.8\wx\config.h
-csignal,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\csignal
-cstdio,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\cstdio
-cstdlib,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\cstdlib
-cstring,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\cstring
-ctime,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\ctime
-curses.h,B:\captain\msn\main\AllHeaders\opt\local\include\ncurses\,B:\captain\msn\main\AllHeaders\opt\local\include\ncurses\curses.h
-dataObjClose.h,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\api\include\,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\api\include\dataObjClose.h
-dataObjClose.h,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\include\,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\include\dataObjClose.h
-dataObjOpen.h,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\api\include\,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\api\include\dataObjOpen.h
-dataObjOpen.h,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\include\,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\include\dataObjOpen.h
-deque,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\deque
-deque,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\debug\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\debug\deque
-exception,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\exception
-fstream,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\fstream
-fstream.h,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\backward\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\backward\fstream.h
-functional,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\functional
-functional,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\ext\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\ext\functional
-getRodsEnv.h,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\core\include\,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\core\include\getRodsEnv.h
-getRodsEnv.h,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\api^core\,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\api^core\getRodsEnv.h
-hdf5.h,B:\captain\msn\main\AllHeaders\opt\hdf5\include\,B:\captain\msn\main\AllHeaders\opt\hdf5\include\hdf5.h
-hdf5_hl.h,B:\captain\msn\main\AllHeaders\opt\hdf5\include\,B:\captain\msn\main\AllHeaders\opt\hdf5\include\hdf5_hl.h
-imqi.hpp,B:\captain\msn\main\AllHeaders\opt\mqm\inc\,B:\captain\msn\main\AllHeaders\opt\mqm\inc\imqi.hpp
-imqi.hpp,B:\captain\msn\main\AllHeaders\opt\temp\mqm\inc\,B:\captain\msn\main\AllHeaders\opt\temp\mqm\inc\imqi.hpp
-iomanip,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\iomanip
-ios,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\ios
-iostream,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\iostream
-iterator,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\iterator
-iterator,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\ext\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\ext\iterator
-limits,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\limits
-list,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\list
-list,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\debug\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\debug\list
-map,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\map
-map,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\debug\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\debug\map
-math.h,B:\captain\msn\main\AllHeaders\opt\local\include\wx-2.8\wx\,B:\captain\msn\main\AllHeaders\opt\local\include\wx-2.8\wx\math.h
-memory.h,B:\captain\msn\main\AllHeaders\opt\local\include\wx-2.8\wx\,B:\captain\msn\main\AllHeaders\opt\local\include\wx-2.8\wx\memory.h
-modAVUMetadata.h,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\api\include\,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\api\include\modAVUMetadata.h
-modAVUMetadata.h,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\include\,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\include\modAVUMetadata.h
-new,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\new
-numeric,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\numeric
-numeric,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\ext\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\ext\numeric
-ostream,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\ostream
-parseCommandLine.h,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\core\include\,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\core\include\parseCommandLine.h
-parseCommandLine.h,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\api^core\,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\api^core\parseCommandLine.h
-queue,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\queue
-rcGlobalExtern.h,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\core\include\,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\core\include\rcGlobalExtern.h
-rcGlobalExtern.h,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\api^core\,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\api^core\rcGlobalExtern.h
-regUtil.h,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\core\include\,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\core\include\regUtil.h
-regUtil.h,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\api^core\,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\api^core\regUtil.h
-regex.h,B:\captain\msn\main\AllHeaders\opt\local\include\wx-2.8\wx\,B:\captain\msn\main\AllHeaders\opt\local\include\wx-2.8\wx\regex.h
-rods.h,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\core\include\,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\core\include\rods.h
-rods.h,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\api^core\,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\api^core\rods.h
-rodsClient.h,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\core\include\,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\core\include\rodsClient.h
-rodsClient.h,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\api^core\,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\api^core\rodsClient.h
-rodsPath.h,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\core\include\,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\core\include\rodsPath.h
-rodsPath.h,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\api^core\,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\api^core\rodsPath.h
-scanUtil.h,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\core\include\,B:\captain\msn\main\AllHeaders\opt\irods\iRODS\lib\core\include\scanUtil.h
-scanUtil.h,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\api^core\,B:\captain\msn\main\AllHeaders\opt\temp\irods\iRODS\lib\api\api^core\scanUtil.h
-set,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\set
-set,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\debug\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\debug\set
-sstream,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\sstream
-string,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\string
-string,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\debug\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\debug\string
-string.h,B:\captain\msn\main\AllHeaders\opt\local\include\wx-2.8\wx\,B:\captain\msn\main\AllHeaders\opt\local\include\wx-2.8\wx\string.h
-thread.h,B:\captain\msn\main\AllHeaders\opt\local\include\wx-2.8\wx\,B:\captain\msn\main\AllHeaders\opt\local\include\wx-2.8\wx\thread.h
-typeinfo,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\typeinfo
-utility,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\utility
-valarray,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\valarray
-vector,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\vector
-vector,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\debug\,B:\captain\msn\main\AllHeaders\opt\local\include\c++\3.4.6\debug\vector
-Files not found in C:\Users\brinson\Documents\Visual Studio 2013\msn\main71\code\ or B:\captain\msn\main\AllHeaders\opt\:
+Files not found in U:\Bill\UTILITYS\MSVS2013\SearchFiles1wGit or B:\captain\msn\main\AllHeaders\opt\:
 FileName, Not Found
-, ../archive/test/EPDbTest.hpp, , Not Found
-, DTBinexGFW.hpp, , Not Found
-, DataSubPub.hpp, , Not Found
-, DataTreeSubPub.hpp, , Not Found
-, DiffFrame.hpp, , Not Found
-, GPSEpochWeekSecond.hpp, , Not Found
-, H5GNSSDitherType.h, , Not Found
-, MQFramework.hpp, , Not Found
-, MSNSubscriber.hpp, , Not Found
-, PublisherFrame.hpp, , Not Found
-, StreamCmdOpt.hpp, , Not Found
-, This, , Not Found
-, UIProcessing.hpp, , Not Found
-, UITreeSubscriber.hpp, , Not Found
-, UPS.hpp, , Not Found
-, arpa/inet.h, , Not Found
-, arpa/nameser_compat.h, , Not Found
-, assert.h, , Not Found
-, bits/signum.h, , Not Found
-, blackenum.hpp, , Not Found
-, blackstrings.hpp, , Not Found
-, ctype.h, , Not Found
-, direct.h, , Not Found
+, #include, , Not Found
+, ./sortedVector8.hpp, , Not Found
+, C:\\Users\\brinson\\Documents\\Lang\\dirent.h, , Not Found
+, C:\\Users\\brinson\\Documents\\Lang\\fcn_s_MACROS.h, , Not Found
+, DirTree.hpp, , Not Found
+, Exclude, , Not Found
+, SearchForStringFcns.hpp, , Not Found
+, TCHAR.h, , Not Found
+, U:\\Bill\\LANG\\VCC_2012\\Brin_Inc\\fcn_s_MACROS.h, , Not Found
+, U:\\Bill\\LANG\\dirent_include\\dirent.h, , Not Found
+, algorithm, , Not Found
+, cstdio, , Not Found
+, cstdlib, , Not Found
+, cstring, , Not Found
 , dirent.h, , Not Found
 , errno.h, , Not Found
-, fcntl.h, , Not Found
-, float.h, , Not Found
-, gnu-versions.h, , Not Found
-, inttypes.h, , Not Found
-, io.h, , Not Found
-, libgen.h, , Not Found
+, fstream, , Not Found
+, iostream, , Not Found
+, limits, , Not Found
 , limits.h, , Not Found
-, mps/cert.h, , Not Found
-, mps/cryptohi.h, , Not Found
-, mps/keyhi.h, , Not Found
-, mps/nss.h, , Not Found
-, mps/pk11pub.h, , Not Found
-, mps/prmem.h, , Not Found
-, mps/sechash.h, , Not Found
-, mqcfil.cpp, , Not Found
-, mqcfst.cpp, , Not Found
-, net-snmp/net-snmp-config.h, , Not Found
-, net-snmp/net-snmp-includes.h, , Not Found
-, netdb.h, , Not Found
-, netinet/in.h, , Not Found
-, netinet/in_systm.h, , Not Found
-, netinet/ip.h, , Not Found
-, netinet/tcp.h, , Not Found
-, netinet/udp.h, , Not Found
-, nl_types.h, , Not Found
-, nss/cert.h, , Not Found
-, nss/cryptohi.h, , Not Found
-, nss/key.h, , Not Found
-, nss/nss.h, , Not Found
-, nss/pk11func.h, , Not Found
-, nss/pk11pub.h, , Not Found
-, nss/secmod.h, , Not Found
-, nss/secmodt.h, , Not Found
-, objMetaOpr.h, , Not Found
-, plstr.h, , Not Found
-, poll.h, , Not Found
-, prtypes.h, , Not Found
-, pthread.h, , Not Found
-, pwd.h, , Not Found
-, reGlobalsExtern.h, , Not Found
-, reason.cpp, , Not Found
-, redenum.hpp, , Not Found
-, redstrings.hpp, , Not Found
-, regopts.cpp, , Not Found
-, rpc/types.h, , Not Found
-, rpc/xdr.h, , Not Found
-, rsGlobalExtern.h, , Not Found
-, semaphore.h, , Not Found
-, siginfo.h, , Not Found
-, signal.h, , Not Found
-, slipdet.hpp, , Not Found
-, stdarg.h, , Not Found
-, stdint.h, , Not Found
+, map, , Not Found
+, new, , Not Found
+, parseTokens.hpp, , Not Found
+, search, , Not Found
+, set, , Not Found
 , stdio.h, , Not Found
 , stdlib.h, , Not Found
-, strings.h, , Not Found
-, stropts.h, , Not Found
-, sys/errno.h, , Not Found
-, sys/file.h, , Not Found
-, sys/filio.h, , Not Found
-, sys/ioctl.h, , Not Found
-, sys/machine.h, , Not Found
-, sys/mman.h, , Not Found
-, sys/param.h, , Not Found
-, sys/poll.h, , Not Found
-, sys/procfs.h, , Not Found
-, sys/socket.h, , Not Found
-, sys/stat.h, , Not Found
-, sys/time.h, , Not Found
-, sys/timeb.h, , Not Found
+, string, , Not Found
+, string.h, , Not Found
 , sys/types.h, , Not Found
-, sys/uio.h, , Not Found
-, sys/varargs.h, , Not Found
-, sys/wait.h, , Not Found
-, syslog.h, , Not Found
-, termios.h, , Not Found
-, time.h, , Not Found
-, transParameter.cpp, , Not Found
-, transReasonCode.cpp, , Not Found
-, unistd.h, , Not Found
-, values.h, , Not Found
-, windows.h, , Not Found
-, winsock2.h, , Not Found
+, tchar.h, , Not Found
+, vector, , Not Found

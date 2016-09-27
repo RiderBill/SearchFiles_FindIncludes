@@ -46,6 +46,7 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>USERDATABILL; _MBCS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
@@ -78,6 +79,9 @@
     <ClInclude Include="..\SourceCode\parseTokens8.hpp" />
     <ClInclude Include="..\SourceCode\SearchForStringFcns8.hpp" />
     <ClInclude Include="..\SourceCode\sortedVector10.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\ReadMe_FindAllIncludes.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

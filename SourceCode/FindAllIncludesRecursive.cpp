@@ -32,6 +32,7 @@ void printResults(vector<wcb::DirTree> dirTrees                         ,
 //#############################################################################################################
 int main(int argc,   char * const argv[])
 {  
+   // The following are to simplify for debugging.
    char *argv0 = argv[0];
    char *argv1 = argv[1];
    char *argv2 = argv[2];

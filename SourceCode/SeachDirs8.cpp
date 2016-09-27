@@ -24,7 +24,7 @@ int main(int argc,   char * const argv[])
    if(argc < 4)
    {  printf("Enter starting directory, file extention type(s), and search pattern(s)\n"
              "on command line.\n"
-             "Enclose multiple extenstions or multiple search patterns in double quotes\n"
+             "Enclose multiple extensions or multiple search patterns in double quotes\n"
              "Enter "" for all files.\n"
              "(search pattern(s) cannot be a null string).\n");
       printf("Program termites.\n");
