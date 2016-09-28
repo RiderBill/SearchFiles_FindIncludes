@@ -11,6 +11,11 @@
 #include "SearchForStringFcns8.hpp"
 #include "parseTokens8.hpp"
 
+// I'm pretty sure at least some of these search functions could be rewritten
+// with lower Order (Big-) algorithms.
+// I must have been on autopilot when I wrote the search4String(string, string, pos)
+// function. std::string has built in pverloaded member functions of the form
+//   size_t find(searchPattern, startPos)
 using namespace std;
 
 int findStringInFiles(vector<string>  searchString, 
@@ -229,9 +234,13 @@ bool searchForString  (FILE         *fp       , string const   &searchText, size
 	return false;
 } // End of (FILE *fp       , string const &searchText, size_t &position)
 
-
 bool searchForString  (string const &targText , string const   &searchText, size_t &position)
-{	size_t targLength = targText.size();
+{  // I must have been on autopilot when I wrote this overload.
+   // std::string has built in overloaded member functions of the form
+   //    size_t find(searchPattern, startPos)
+   // I could have used tartText.find(searchText, position).
+   // Good argument for pair programming, this is.
+ 	size_t targLength = targText.size();
 	size_t ii, searchTextLength = searchText.size();
    size_t startPos = position; // Save starting position in targText.
 
